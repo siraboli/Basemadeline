@@ -1,5 +1,5 @@
-# [UploaditRoBot](https://t.me/UploadItRobot)
-Simple URL uploader bot for Telegram - Based on MadelineProto
+# [Telegram](https://t.me/normalmohammad)
+Simple timebot bot for Telegram - Based on MadelineProto
 You can use with 2 methods:
 
 ## Deploy with Heroku
@@ -13,9 +13,9 @@ You can use with 2 methods:
 
 ## With VPS
 
-1-) Run `git clone https://github.com/TheDarkW3b/uploadit
+1-) Run `git clone https://github.com/MohammadSylix/Basemadeline.git
 
-2-) Run `php fileassistantbot.php`
+2-) Run `php myfile.php`
 
 ## Installing Requirements for VPS
 
