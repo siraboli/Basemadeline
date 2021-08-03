@@ -5,7 +5,7 @@ You can use with 2 methods:
 ## Deploy with Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-1-) Deploy it and run `http://{yourappname}.herokuapp.com/fileassistantbot.php`
+1-) Deploy it and run `http://{yourappname}.herokuapp.com/myfile.php`
 
 2-)Write your App ID/Hash and Bot Token.
 
