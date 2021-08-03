@@ -125,7 +125,7 @@ class MyEventHandler extends EventHandler
             $text = $message["message"] ?? null;
             $message_id = $message["id"] ?? 0;
             $reply_to_msg_id = $message["reply_to_msg_id"] ?? 0;
-            $from_id = $message['from_id']['user_id'];
+            $from_id= $update['message']['from_id']['user_id']?? 0;
             
             try {
                 if($text == 'ping') {
